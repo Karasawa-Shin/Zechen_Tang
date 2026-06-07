@@ -3,7 +3,7 @@ title: "Deep-learning electronic-structure calculation of magnetic superstructur
 collection: publications
 category: manuscripts
 permalink: /publication/2023-04-01-deep-learning-magnetic-superstructures
-excerpt: 'Extending DeepH to magnetic materials with DFT accuracy.'
+excerpt: 'Co-first author. Extending DeepH to magnetic materials with DFT accuracy.'
 date: 2026-05-26
 venue: "Nat. Comput. Sci. <b>3</b>, 321-327 (2023) [Cover story]"
 paperurl: 'https://www.nature.com/articles/s43588-023-00424-3'

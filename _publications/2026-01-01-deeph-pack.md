@@ -3,7 +3,7 @@ title: "DeepH-pack: A general-purpose neural network package for deep-learning e
 collection: publications
 category: preprints
 permalink: /publication/2026-01-01-deeph-pack
-excerpt: 'General-purpose neural network package for deploying DeepH models.'
+excerpt: 'Contributing author. General-purpose neural network package for deploying DeepH models.'
 date: 2026-05-18
 venue: "arXiv:2601.02938"
 paperurl: 'https://arxiv.org/abs/2601.02938'
