@@ -13,7 +13,7 @@ Within one of the leading groups on **Deep-learning DFT Hamiltonians (DeepH)**, 
 
 Beyond publishing research papers, I am committed to **open-source software development** and **science communication**. I co-authored a feature article on the 2024 Nobel Prize in Physics for *Physics (Wuli)*, a leading Chinese popular science journal, aiming to bridge the gap between advanced AI-physics research and the public.
 
-As (co-)first author, I have published 6 papers in journals including *Physical Review Letters* (2, both Editors' Suggestions), *Nature Computational Science* (2, one Cover Story), *Nature Communications*, and *Science Bulletin* (Cover Story).
+As (co-)first author, I have published 6 papers in journals including **Physical Review Letters** (2, both Editors' Suggestions), **Nature Computational Science** (2, one Cover Story), **Nature Communications**, and **Science Bulletin** (Cover Story).
 
 ## Education
 
