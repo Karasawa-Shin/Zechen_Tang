@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Physics, Tsinghua University, 2023 – Present (Advisor: Prof. Yong Xu)
+* Ph.D. Candidate in Physics, Tsinghua University, 2023 – Present (Advisor: Prof. Yong Xu)
 * B.Sc. in Mathematics and Physics, Tsinghua University, 2023 (GPA: 3.83/4.00, Rank: 11/55)
 * Undergraduate in Chemistry, Tsinghua University, 2018 – 2020
 
