@@ -1,61 +1,56 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Zechen Tang",
+    "email": "tzc23@mails.tsinghua.edu.cn",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://karasawa-shin.github.io/Zechen_Tang",
+    "summary": "PhD Candidate in Physics, Tsinghua University. Research at the intersection of computational physics and AI for first-principles calculations.",
     "location": {
-      "address": "",
+      "address": "Department of Physics",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Beijing",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "username": "Zechen Tang",
+        "url": "https://scholar.google.com/citations?user=yehlz0kAAAAJ"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Karasawa-Shin",
+        "url": "https://github.com/Karasawa-Shin"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Tsinghua University",
+      "area": "Ph.D. Candidate in Physics",
+      "studyType": "Ph.D.",
+      "startDate": "2023-08",
+      "endDate": "",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
+      "institution": "Tsinghua University",
+      "area": "B.Sc. in Mathematics and Physics",
+      "studyType": "B.Sc.",
+      "startDate": "2020-09",
+      "endDate": "2023-06",
+      "gpa": "3.83/4.00",
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Tsinghua University",
+      "area": "Undergraduate in Chemistry",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2018-09",
+      "endDate": "2020-08",
       "gpa": null,
       "courses": []
     }
@@ -66,32 +61,88 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "A deep equivariant neural network approach for efficient hybrid density functional calculations",
+      "publisher": "Nature Communications",
+      "releaseDate": "2024-10-11",
+      "website": "https://www.nature.com/articles/s41467-024-53028-4",
+      "summary": "Co-first author. Deep equivariant neural network for efficient hybrid DFT calculations."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Deep-learning electronic structure calculations",
+      "publisher": "Nature Computational Science",
+      "releaseDate": "2025-12-22",
+      "website": "https://www.nature.com/articles/s43588-025-00932-4",
+      "summary": "Co-first author. Comprehensive review of deep-learning electronic structure calculations."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Physics and deep learning: an introduction to the 2024 Nobel Prize in Physics",
+      "publisher": "PHYSICS (Wuli)",
+      "releaseDate": "2025-01-01",
+      "website": "https://wuli.iphy.ac.cn/en/article/cstr/32040.14.wl20250101",
+      "summary": "First author. Popular science article on the 2024 Nobel Prize in Physics (in Chinese)."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Deep-learning electronic-structure calculation of magnetic superstructures",
+      "publisher": "Nature Computational Science",
+      "releaseDate": "2023-04-01",
+      "website": "https://www.nature.com/articles/s43588-023-00424-3",
+      "summary": "Co-first author. Extending DeepH to magnetic materials with DFT accuracy. [Cover story]"
+    },
+    {
+      "name": "Deep learning density functional theory Hamiltonian in real space",
+      "publisher": "Physical Review Letters",
+      "releaseDate": "2026-07-20",
+      "website": "https://journals.aps.org/prl/abstract/10.1103/mbhs-vlby",
+      "summary": "Co-first author. DeepH-R: learning real-space Kohn-Sham potential for sub-meV accuracy."
+    },
+    {
+      "name": "Deep-learning density functional perturbation theory",
+      "publisher": "Physical Review Letters",
+      "releaseDate": "2024-03-01",
+      "website": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.096401",
+      "summary": "Co-first author. Accelerating electron-phonon calculations by up to three orders of magnitude. [Editors' suggestion]"
+    },
+    {
+      "name": "Neural-network density functional theory based on variational energy minimization",
+      "publisher": "Physical Review Letters",
+      "releaseDate": "2024-08-01",
+      "website": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.076401",
+      "summary": "Co-first author. Deep-learning Hamiltonian with physical principles instead of data. [Editors' suggestion]"
+    },
+    {
+      "name": "Universal materials model of deep-learning density functional theory Hamiltonian",
+      "publisher": "Science Bulletin",
+      "releaseDate": "2024-07-01",
+      "website": "https://www.sciencedirect.com/science/article/pii/S2095927324004079",
+      "summary": "Co-first author. Universal materials model for deep-learning Hamiltonian. [Cover story]"
+    },
+    {
+      "name": "DeepH-pack: A general-purpose neural network package for deep-learning electronic structure calculations",
+      "publisher": "npj Computational Materials",
+      "releaseDate": "2026-07-09",
+      "website": "https://www.nature.com/articles/s41524-026-02219-2",
+      "summary": "Contributing author. Unified software package for deep-learning electronic structure calculations."
+    },
+    {
+      "name": "Equivariant Neural Network Force Fields for Magnetic Materials",
+      "publisher": "Quantum Frontiers",
+      "releaseDate": "2024-12-01",
+      "website": "https://doi.org/10.1007/s44214-024-00055-3",
+      "summary": "Contributing author. Equivariant neural network force fields for magnetic materials."
+    },
+    {
+      "name": "Roadmap on Advancements of the FHI-aims Software Package",
+      "publisher": "Electronic Structure",
+      "releaseDate": "2026-06-22",
+      "website": "https://iopscience.iop.org/article/10.1088/2516-1075/ae8067",
+      "summary": "Contributing author (200+ authors). Comprehensive roadmap for the FHI-aims package."
+    },
+    {
+      "name": "ABACUS: An electronic structure analysis package for the AI era",
+      "publisher": "Journal of Chemical Physics",
+      "releaseDate": "2025-11-01",
+      "website": "https://pubs.aip.org/aip/jcp/article-abstract/163/19/192501/3372906/ABACUS-An-electronic-structure-analysis-package?redirectedFrom=fulltext",
+      "summary": "Contributing author (58 authors). Electronic structure analysis package for the AI era."
     }
   ],
   "presentations": [
