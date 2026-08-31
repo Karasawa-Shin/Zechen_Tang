@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026-01-01-deeph-pack
 excerpt: 'Contributing author. A unified software package integrating first-principles calculations with deep learning.'
-date: 2026-07-09
+date: 2026-04-30
 venue: "npj Comput. Mater. (2026)"
 authors: "Yang Li*, Yanzhen Wang*, Boheng Zhao*, ..., <b>Zechen Tang</b>, ..., Felipe H. da Jornada, Wenhui Duan, and Yong Xu"
 paperurl: 'https://www.nature.com/articles/s41524-026-02219-2'

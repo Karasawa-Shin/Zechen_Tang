@@ -4,7 +4,7 @@ collection: publications
 category: preprints
 permalink: /publication/2026-06-01-ai-superconductor-screening
 excerpt: 'First author. AI-accelerated high-throughput screening of superconductors using deep-learning DFT Hamiltonians.'
-date: 2026-06-19
+date: 2025-12-31
 venue: "arXiv:2606.21251"
 authors: "<b>Zechen Tang</b>*, Wen-Han Dong*, Baochun Wu*, ... , Wenhui Duan, Tao Xiang, and Yong Xu"
 paperurl: 'https://arxiv.org/abs/2606.21251'

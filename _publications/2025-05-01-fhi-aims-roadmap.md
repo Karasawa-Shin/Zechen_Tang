@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-05-01-fhi-aims-roadmap
 excerpt: 'Contributing author (200+ authors). Comprehensive roadmap for the FHI-aims all-electron electronic structure package.'
-date: 2026-06-22
+date: 2026-02-28
 venue: "Electron. Struct. accepted (2026)"
 authors: "(200+ authors, including <b>Zechen Tang</b>)"
 paperurl: 'https://iopscience.iop.org/article/10.1088/2516-1075/ae8067'

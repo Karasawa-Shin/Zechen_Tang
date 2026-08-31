@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-07-01-real-space-dft-hamiltonian
 excerpt: 'Co-first author. Learning DFT Hamiltonians in real space for improved accuracy and foundation models.'
-date: 2026-07-20
+date: 2026-08-31
 venue: "Phys. Rev. Lett. <b>137</b>, 046401 (2026)"
 authors: "Zilong Yuan*, <b>Zechen Tang</b>*, Honggeng Tao*, ... , Wenhui Duan, and Yong Xu"
 paperurl: 'https://journals.aps.org/prl/abstract/10.1103/mbhs-vlby'
